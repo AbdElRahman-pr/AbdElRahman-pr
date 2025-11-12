@@ -60,19 +60,19 @@ I'm passionate about <b>Full Stack Web Development</b> and currently learning
       <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AbdElRahman-pr/Billing-System" style="color:#00BFFF;"><b>Billing System (C#)</b></a></td>
+      <td><a href="https://github.com/AbdElRahman-pr/Billing-System" style="color:#00BFFF;"><b>Billing System</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="18"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="18"/>
-        <b> C#, WinForms, SQL</b>
+        <b> C# </b>
       </td>
       <td><b>AbdEl Rahman</b></td>
       <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AbdElRahman-pr/To-Do-List" style="color:#00BFFF;"><b>To Do List (HTML, CSS, JS)</b></a></td>
+      <td><a href="https://github.com/AbdElRahman-pr/To-Do-List" style="color:#00BFFF;"><b>To Do List</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/>
