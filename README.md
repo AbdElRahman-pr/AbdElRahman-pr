@@ -41,8 +41,8 @@ I'm passionate about <b>Full Stack Web Development</b> and currently learning
     <tr>
       <th>🎁 Projects</th>
       <th>⭐ Stars</th>
-      <th>📚 Forks</th>
-      <th>🛎 Issues</th>
+      <th>🧩 Languages</th>
+      <th>👥 Contributors</th>
       <th>📬 Pull Requests</th>
     </tr>
   </thead>
@@ -50,26 +50,45 @@ I'm passionate about <b>Full Stack Web Development</b> and currently learning
     <tr>
       <td><a href="https://github.com/AbdElRahman/sample-aspnet-app" style="color:#00BFFF;"><b>ASP.NET Blog Website</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="18"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="18"/>
+        <b> C#, ASP.NET, SQL</b>
+      </td>
+      <td><b>AbdEl Rahman</b></td>
       <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/AbdElRahman-pr/Billing-System" style="color:#00BFFF;"><b>Billing System (C#)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="18"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="18"/>
+        <b> C#, WinForms, SQL</b>
+      </td>
+      <td><b>AbdEl Rahman</b></td>
       <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/AbdElRahman-pr/To-Do-List" style="color:#00BFFF;"><b>To Do List (HTML, CSS, JS)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/>
+        <b> HTML, CSS, JavaScript</b>
+      </td>
+      <td><b>AbdEl Rahman</b></td>
       <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
+
+<p align="center" style="color:#A9A9A9; font-size:14px; margin-top:10px;">
+  🧭 <i>More projects coming soon...</i>
+</p>
 
 ---
 
@@ -100,3 +119,4 @@ I'm passionate about <b>Full Stack Web Development</b> and currently learning
 </p>
 
 </div>
+
