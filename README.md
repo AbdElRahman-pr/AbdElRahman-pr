@@ -61,6 +61,13 @@ I'm passionate about <b>Full Stack Web Development</b> and currently learning
       <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/AbdElRahman-pr/To-Do-List" style="color:#00BFFF;"><b>To Do List (HTML, CSS, JS)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman-pr/To-Do-List?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -69,6 +76,20 @@ I'm passionate about <b>Full Stack Web Development</b> and currently learning
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdElRahman&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdElRahman&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<h3 style="color:#00FFFF;">📫 Contact Me</h3>
+
+<p align="center" style="color:#DCDCDC;">
+  <a href="mailto:bnyslamhbdalrhmn558@gmail.com" style="color:#00FFFF; text-decoration:none;">
+    📧 Email: <b>bnyslamhbdalrhmn558@gmail.com</b>
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/abdelrahman-bni-salameh-b6bb4a375/" target="_blank" style="color:#00BFFF; text-decoration:none;">
+    💼 LinkedIn: <b>AbdEl Rahman Bni Salameh</b>
+  </a>
 </p>
 
 ---
