@@ -1,12 +1,25 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<!-- 🌌 Dark & Modern README by AbdEl Rahman -->
 
-<p>Welcome to my page! </br> I'm <b>AbdEl Rahman</b>, a Software Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197605.png" width="13"/> <b>Jordan</b>.  
-I'm passionate about <b>Full Stack Web Development</b> and currently learning <b>ASP.NET</b> to build modern and dynamic web applications.</p>
+<div align="center">
+
+<h1 style="color:#00FFFF;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! Nice to see you.
+</h1>
+
+<p style="color:#DCDCDC; font-size:16px;">
+Welcome to my page! <br>
+I'm <b>AbdEl Rahman</b>, a Software Engineering student from 
+<img src="https://cdn-icons-png.flaticon.com/512/197/197605.png" width="13"/> 
+<b>Jordan</b>.<br>
+I'm passionate about <b>Full Stack Web Development</b> and currently learning 
+<b>ASP.NET</b> to build modern and dynamic web applications.
+</p>
 
 ---
 
-<h3>🧠 Languages and Tools I work with</h3>
-<p>
+<h3 style="color:#00FFFF;">🧠 Languages and Tools I work with</h3>
+<p align="center">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -21,20 +34,48 @@ I'm passionate about <b>Full Stack Web Development</b> and currently learning <b
 
 ---
 
-<h3>🚀 Open Source Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+<h3 style="color:#00FFFF;">🚀 Open Source Projects</h3>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>🎁 Projects</th>
+      <th>⭐ Stars</th>
+      <th>📚 Forks</th>
+      <th>🛎 Issues</th>
+      <th>📬 Pull Requests</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AbdElRahman/sample-aspnet-app"><b>ASP.NET Blog Website</b></a></td>
+      <td><a href="https://github.com/AbdElRahman/sample-aspnet-app" style="color:#00BFFF;"><b>ASP.NET Blog Website</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdElRahman/sample-aspnet-app?
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman/sample-aspnet-app?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AbdElRahman-pr/Billing-System" style="color:#00BFFF;"><b>Billing System (C#)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/AbdElRahman-pr/Billing-System?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdElRahman&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdElRahman&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center" style="color:#DCDCDC;">
+  💬 Feel free to connect or check my work below!<br>
+  <a href="https://github.com/AbdElRahman" style="color:#00FFFF;">🔗 GitHub Profile</a>
+</p>
+
+</div>
